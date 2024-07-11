@@ -1,0 +1,48 @@
+2024-07-02 15:55:06 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:55:06 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:55:06 [INFO] Prompt ID: fb9765b6-4b9e-4dbf-a326-9aba0d0b7d7e
+2024-07-02 15:55:06 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:55:06 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:55:06 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:55:06 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:55:06 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-07-02 15:56:07 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:56:07 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:56:07 [INFO] Prompt ID: 1e38bf02-0259-4f0a-b463-1c17668c831e
+2024-07-02 15:56:07 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:56:07 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:56:07 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:56:07 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:56:07 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-07-02 15:57:03 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:57:03 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:57:03 [INFO] Prompt ID: 0d72d96d-411a-446d-bf8e-f77f59dd4233
+2024-07-02 15:57:03 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:57:03 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:57:03 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:57:03 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:57:03 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-07-02 15:57:58 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:57:58 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:57:58 [INFO] Prompt ID: 74ed48bf-b8ed-470f-a394-5c8f447f754e
+2024-07-02 15:57:58 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:57:58 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:57:58 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:57:58 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:57:58 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-07-02 15:58:26 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:58:26 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:58:26 [INFO] Prompt ID: e2d407ea-88df-4a96-89d6-ed6b792847dc
+2024-07-02 15:58:26 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:58:26 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:58:26 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:58:26 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:58:26 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-07-02 15:58:45 [INFO] Question: Which are the top 5 countries by sales?
+2024-07-02 15:58:45 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-07-02 15:58:45 [INFO] Prompt ID: 32dc314a-ccbb-4125-8465-09328ed7539a
+2024-07-02 15:58:45 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-07-02 15:58:45 [INFO] Executing Step 0: ValidatePipelineInput
+2024-07-02 15:58:45 [INFO] Executing Step 1: CacheLookup
+2024-07-02 15:58:45 [INFO] Executing Step 2: PromptGeneration
+2024-07-02 15:58:45 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
